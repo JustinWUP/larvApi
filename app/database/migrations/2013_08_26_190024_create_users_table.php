@@ -18,5 +18,5 @@ use Illuminate\Database\Migrations\Migration;
 		public function down()
 		{
 		    Schema::drop('users');
-		}//
+		}
 	}
